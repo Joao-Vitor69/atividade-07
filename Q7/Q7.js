@@ -7,4 +7,4 @@ for (let i = 0; i < palavra.length; i++) {
     palavrainve = palavra[i] + palavrainve
     
 }
-alert(palavrainve)
+console.log(palavrainve)
